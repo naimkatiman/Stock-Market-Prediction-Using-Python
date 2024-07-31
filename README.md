@@ -1,4 +1,4 @@
-# Stock-Market-Prediction-using-Python
+# Stock-Market-Prediction-using-PythonML
 
 ## Overview
 This project predicts the closing prices of the S&P 500 index using machine learning techniques. By analyzing historical data, the project creates a reliable model for forecasting future stock prices based on features like Open, High, Low, Close prices, and Volume. It demonstrates data preprocessing, model training, and evaluation, providing insights into different machine learning models' performance.
